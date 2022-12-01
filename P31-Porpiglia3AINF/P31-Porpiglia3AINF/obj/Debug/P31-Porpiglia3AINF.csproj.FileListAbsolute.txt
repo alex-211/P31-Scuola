@@ -1,0 +1,10 @@
+C:\Users\Tec_Inf_01\Desktop\P31-Porpiglia3AINF\P31-Porpiglia3AINF\bin\Debug\P31-Porpiglia3AINF.exe.config
+C:\Users\Tec_Inf_01\Desktop\P31-Porpiglia3AINF\P31-Porpiglia3AINF\bin\Debug\P31-Porpiglia3AINF.exe
+C:\Users\Tec_Inf_01\Desktop\P31-Porpiglia3AINF\P31-Porpiglia3AINF\bin\Debug\P31-Porpiglia3AINF.pdb
+C:\Users\Tec_Inf_01\Desktop\P31-Porpiglia3AINF\P31-Porpiglia3AINF\obj\Debug\P31-Porpiglia3AINF.csprojAssemblyReference.cache
+C:\Users\Tec_Inf_01\Desktop\P31-Porpiglia3AINF\P31-Porpiglia3AINF\obj\Debug\P31_Porpiglia3AINF.Form1.resources
+C:\Users\Tec_Inf_01\Desktop\P31-Porpiglia3AINF\P31-Porpiglia3AINF\obj\Debug\P31_Porpiglia3AINF.Properties.Resources.resources
+C:\Users\Tec_Inf_01\Desktop\P31-Porpiglia3AINF\P31-Porpiglia3AINF\obj\Debug\P31-Porpiglia3AINF.csproj.GenerateResource.cache
+C:\Users\Tec_Inf_01\Desktop\P31-Porpiglia3AINF\P31-Porpiglia3AINF\obj\Debug\P31-Porpiglia3AINF.csproj.CoreCompileInputs.cache
+C:\Users\Tec_Inf_01\Desktop\P31-Porpiglia3AINF\P31-Porpiglia3AINF\obj\Debug\P31-Porpiglia3AINF.exe
+C:\Users\Tec_Inf_01\Desktop\P31-Porpiglia3AINF\P31-Porpiglia3AINF\obj\Debug\P31-Porpiglia3AINF.pdb
